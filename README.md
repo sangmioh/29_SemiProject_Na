@@ -1,5 +1,7 @@
 # Nutrients Almighty
 
+![상호이미지](https://user-images.githubusercontent.com/97028831/186664015-3d3c8279-ab0e-4d0c-a0a6-f5f0c3474320.png)
+
 ## 프로젝트 소개
 - Nutrients Almighty은 영양제 판매 사이트입니다.
 - 해당 프로젝트는 KH정보교육원의 풀스택 웹개발자 과정을 진행중인 5명의 수강생이 설계 및 개발을 하였습니다.
