@@ -27,10 +27,6 @@
                   (추가, 수정, 삭제)
                   
 
-## 내가 맡은 기능
-- 사용자페이지 - 고객후기 페이지와 기능
-- 관리자페이지 - FAQ, 공지사항, 후기관리 
-
 ## 개발환경
 > OS  
 ![WINDOWS](https://img.shields.io/badge/WINDOWS10-0078D6?style=for-the-badge&logo=windows&logoColor=white)  
